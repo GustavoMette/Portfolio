@@ -43,9 +43,12 @@ header .menu ul li a{
     color: #fff;
     transition: 0.5s ease;
     right: 40px;
+    transition-delay: 0.1s;
 }
 header .menu ul li a:hover{
-    color: #4e9ce6;
+    color: #72b7f7;
+    text-decoration: underline;
+    transition-delay: 0.1s;
 }
 header .menu-mobile{
     display: none;
